@@ -12,8 +12,7 @@ const EhsanMahmoodi = {
           realTimeTools: "socket.io",
           dataBases: ["MongoDB", "MySQL", "Redis"],
           architectures: "MVC",
-          API: ["postman", "swagger", "openAPI"],
-          
+          API: ["postman", "swagger", "openAPI"],    
         },                
         devOps: "Docker",               
    },    
